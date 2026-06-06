@@ -1,2 +1,4 @@
 Implementing all git basics commands.
 to make directory - mkdir <folder name>
+to remove directory - rmdir <folder name>
+
