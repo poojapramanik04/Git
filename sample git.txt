@@ -3,3 +3,6 @@ to make directory - mkdir <folder name>
 to remove directory - rmdir <folder name>
 for cloning you can even use HTTPS url too.
 
+If you want to create a branch and push it from local to remote 
+-> git push origin UAT<branch name> 
+
