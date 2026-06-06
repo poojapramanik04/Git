@@ -1,1 +1,2 @@
 Implementing all git basics commands.
+to make directory - mkdir <folder name>
