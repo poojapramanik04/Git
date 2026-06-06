@@ -1,4 +1,5 @@
 Implementing all git basics commands.
 to make directory - mkdir <folder name>
 to remove directory - rmdir <folder name>
+for cloning you can even use HTTPS url too.
 
