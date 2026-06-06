@@ -6,3 +6,7 @@ for cloning you can even use HTTPS url too.
 If you want to create a branch and push it from local to remote 
 -> git push origin UAT<branch name> 
 
+git switch UAT
+git merge main
+“Make UAT contain everything that is in main”
+
