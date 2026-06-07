@@ -10,3 +10,10 @@ git switch UAT
 git merge main
 “Make UAT contain everything that is in main”
 
+Q) Create a branch
+-> git branch dev<branch name>
+Q) To view in which branch you are in
+-> git branch
+Q) Switch from one branch to another branch
+-> git switch dev<branch name>
+
