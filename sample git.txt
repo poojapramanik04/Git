@@ -19,3 +19,5 @@ Q) Switch from one branch to another branch
 
 rm - remove
 rm -rf is used to remove files and directories recursively and forcefully.
+
+learning
