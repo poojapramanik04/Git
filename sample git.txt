@@ -17,6 +17,5 @@ Q) To view in which branch you are in
 Q) Switch from one branch to another branch
 -> git switch dev<branch name>
 
-
-
-
+rm - remove
+rm -rf is used to remove files and directories recursively and forcefully.
