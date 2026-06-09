@@ -21,3 +21,5 @@ rm - remove
 rm -rf is used to remove files and directories recursively and forcefully.
 
 learning git 
+
+happy learning day
